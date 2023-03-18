@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitrogenfive
-- 👀 I’m interested in web development and game code
-- 🌱 I’m currently learning HTML and GDscript
-- 📫 You can reach me through my tumblr, nitrogenfive.tumblr.com
+- 👋 Hi, I’m Boba!
+- 👀 I’m interested in web development and front-end web development
+- 🌱 I’m currently learning HTML and GDscript as well as graphic design
+- 📫 You can reach me through my website, boba-online.neocities.org
